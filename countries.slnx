@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="countries/countries.Api.csproj" />
-  <Project Path="Model/Model.csproj" />
-</Solution>
